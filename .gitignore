@@ -1,0 +1,8 @@
+.settings/
+bin/
+libs/
+.classpath
+.project
+*.iml
+project.properties
+Thumbs.db
